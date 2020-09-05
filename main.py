@@ -16,21 +16,21 @@ elif grade1 == "B+":
 
 elif grade1 == "B":
     grade1 = float(3.0)
-    print(f"Grade point for course 1  is: {grade1}")
+    print(f"Grade point for course 1 is: {grade1}")
 elif grade1 == "B-":
     grade1 = float(2.67)
-    print(f"Grade point for course 1  is: {grade1}")
+    print(f"Grade point for course 1 is: {grade1}")
   
 elif grade1 == "C+":
     grade1 = float(2.33)
-    print(f"Grade point for course 1  is: {grade1}")
+    print(f"Grade point for course 1 is: {grade1}")
     
 elif grade1 == "C":
     grade1 = float(2.0)
-    print(f"Grade point for course 1  is: {grade1}")
+    print(f"Grade point for course 1 is: {grade1}")
 elif grade1 == "C-":
     grade1 = float(2.33)
-    print(f"Grade point for course 1  is: {grade1}")
+    print(f"Grade point for course 1 is: {grade1}")
 elif grade1 == "D":
     grade1 = float(1.0)
     print(f"Grade point for course 1 is: {grade1}")
@@ -79,7 +79,7 @@ elif grade2 == "D":
  
 else:
     grade2 = float(0.0)
-    print(f"Grade point for course 2  is: 0.0")
+    print(f"Grade point for course 2 is: 0.0")
 
   
 
@@ -95,22 +95,22 @@ elif grade3 == "A-":
     print(f"Grade point for course 3 is: {grade3}") 
 elif grade3 == "B+":
     grade3 = float(3.33)
-    print(f"Grade point for course 3  is: {grade3}")
+    print(f"Grade point for course 3 is: {grade3}")
 
 elif grade3 == "B":
     grade3 = float(3.0)
-    print(f"Grade point for course 3  is: {grade3}")
+    print(f"Grade point for course 3 is: {grade3}")
 elif grade3 == "B-":
     grade3 = float(2.67)
-    print(f"Grade point for course 3  is: {grade3}")
+    print(f"Grade point for course 3 is: {grade3}")
   
 elif grade3 == "C+":
     grade3 = float(2.33)
-    print(f"Grade point for course 3  is: {grade3}")
+    print(f"Grade point for course 3 is: {grade3}")
     
 elif grade3 == "C":
     grade3 = float(2.0)
-    print(f"Grade point for course 3  is: {grade3}")
+    print(f"Grade point for course 3 is: {grade3}")
 elif grade3 == "C-":
     grade3 = float(2.33)
     print(f"Grade point for course 3 is: {grade3}")
