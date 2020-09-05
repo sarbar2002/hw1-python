@@ -120,7 +120,7 @@ elif grade3 == "D":
  
 else:
     grade3 = float(0.0)
-    print(f"Grade point for course 1  is: 0.0")
+    print(f"Grade point for course 3 is: 0.0")
 
 
 
