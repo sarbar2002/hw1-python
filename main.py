@@ -1,7 +1,7 @@
 # Author: Sarthak Singh sxs6666@psu.print
 
 grade1 = (input(f"Enter your course 1 letter grade: "))
-credit1 = (input(f"Enter your course 1  credit: "))
+credit1 = (input(f"Enter your course 1 credit: "))
 
 
 if grade1 == "A":
@@ -43,7 +43,7 @@ else:
 
 
 grade2 = (input(f"Enter your course 2 letter grade: "))
-credit2 = (input(f"Enter your course 2  credit: "))
+credit2 = (input(f"Enter your course 2 credit: "))
 
 
 if grade2 == "A":
@@ -84,7 +84,7 @@ else:
   
 
 grade3 = (input(f"Enter your course 3 letter grade: "))
-credit3 = (input(f"Enter your course 3  credit: "))
+credit3 = (input(f"Enter your course 3 credit: "))
 
 
 if grade3 == "A":
