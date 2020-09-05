@@ -58,18 +58,18 @@ elif grade2 == "B+":
 
 elif grade2 == "B":
     grade2 = float(3.0)
-    print(f"Grade point for course 2  is: {grade2}")
+    print(f"Grade point for course 2 is: {grade2}")
 elif grade2 == "B-":
     grade2 = float(2.67)
-    print(f"Grade point for course 2  is: {grade2}")
+    print(f"Grade point for course 2 is: {grade2}")
   
 elif grade2 == "C+":
     grade2 = float(2.33)
-    print(f"Grade point for course 2  is: {grade2}")
+    print(f"Grade point for course 2 is: {grade2}")
     
 elif grade2 == "C":
     grade2 = float(2.0)
-    print(f"Grade point for course 2  is: {grade2}")
+    print(f"Grade point for course 2 is: {grade2}")
 elif grade2 == "C-":
     grade2 = float(2.33)
     print(f"Grade point for course 2 is: {grade2}")
