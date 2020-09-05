@@ -69,7 +69,6 @@ elif grade2 == "C":
     grade2 = float(2.0)
     print(f"Grade point for course 2 is: {grade2}")
 
-    print(f"Grade point for course 2 is: {grade2}")
 elif grade2 == "D":
     grade2 = float(1.0)
     print(f"Grade point for course 2 is: {grade2}")
